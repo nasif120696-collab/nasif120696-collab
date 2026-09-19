@@ -1,46 +1,61 @@
-<!-- SPIDER-VERSE GLITCH BANNER HEADER -->
+<!-- 1. MINIMALIST CYAN-TO-PURPLE QUOTE BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,23,24,25,30&height=220&section=header&text=%22Anyone%20can%20wear%20the%20mask.%22&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=21,17,12&height=140&text=%22Anyone%20can%20wear%20the%20mask.%22&fontSize=32&fontColor=ffffff&fontAlignY=55" width="100%" />
+</div>
 
-  <h1 align="center">🕷️ MUSHFIQUL ALAM NASIF 🕷️</h1>
-  <p align="center"><i>"It's a leap of faith. That's all it is, Miles."</i></p>
+<br/>
 
-  <!-- DYNAMIC TYPING SVG: SPIDER-VERSE NEON PALETTE -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E23636&center=true&vCenter=true&width=750&lines=CSE+Student+%40+BAUST+Khulna+(CGPA+3.27);Full-Stack+Web+Developer+%26+Game+Builder;Top+10+Finalist+%40+Tech+Trex+(IUT+Automech);Top+25+Finalist+%40+AI+%26+Blockchain+Olympiad;Leaping+through+the+Code-Verse..." alt="Spider Typing SVG" />
-  </a>
+<!-- 2. SPIDER-VERSE CINEMATIC HERO & NAVIGATION (MIMICKING VATSAL'S PORTFOLIO) -->
+<div align="center">
+  <table width="100%" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td bgcolor="#0b0f19" style="padding: 16px 24px; border-radius: 12px 12px 0 0; border: 1px solid #202b40;">
+        <table width="100%">
+          <tr>
+            <td align="left">
+              <span style="font-family: monospace; font-weight: 800; font-size: 18px; color: #ffffff; letter-spacing: 2px;">MUSHFIQUL ALAM NASIF</span>
+            </td>
+            <td align="right">
+              <code><a href="#about-me">About</a></code> &nbsp;|&nbsp;
+              <code><a href="#spider-verse-cinema">Movies</a></code> &nbsp;|&nbsp;
+              <code><a href="#multiverse-feats">Explore</a></code> &nbsp;|&nbsp;
+              <code><a href="https://www.linkedin.com/in/mushfiqul-alam-nasif-cse08">Contacts</a></code>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td bgcolor="#070a12" style="padding: 0; border-radius: 0 0 12px 12px; border: 1px solid #202b40; border-top: none;">
+        <img src="https://raw.githubusercontent.com/nasif120696-collab/table-tennis-game-/main/spiderman2.jpg" width="100%" alt="Spider-Verse Hero Banner" style="border-radius: 0 0 12px 12px;" />
+      </td>
+    </tr>
+  </table>
+</div>
 
+<div align="center">
   <br/>
-
-  <!-- SPIDER THEMED BADGES -->
+  <!-- SOCIAL BADGES -->
   <a href="https://www.linkedin.com/in/mushfiqul-alam-nasif-cse08"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mushfiqulalam14@gmail.com"><img src="https://img.shields.io/badge/Web_Shooter-Email-E23636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://table-tennis-game-psi.vercel.app/"><img src="https://img.shields.io/badge/Live_Project-Ping_Pong-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo"/></a>
-  <img src="https://komarev.com/ghpvc/?username=nasif120696-collab&style=for-the-badge&color=E23636&label=SPIDER-SENSE+VIEWS" alt="Profile Views" />
+  <a href="mailto:mushfiqulalam14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://table-tennis-game-psi.vercel.app/"><img src="https://img.shields.io/badge/Live_Project-Ping_Pong-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo"/></a>
+  <img src="https://komarev.com/ghpvc/?username=nasif120696-collab&style=for-the-badge&color=8A2BE2&label=MULTIVERSE+VISITORS" alt="Profile Views" />
 </div>
 
 ---
 
-### 🕸️ Earth-616 // Identity Matrix
+### <a id="about-me"></a>🕷️ About Me
 
-<table align="center" width="100%">
-<tr>
-<td width="60%" valign="top">
+> *"I'm a creative software developer who loves animations, interactive canvas engines, and building futuristic web experiences. I enjoy experimenting with physics game loops, responsive design, and scalable backend workflows."*
 
-```jsonc
-{
-  "hero_alias": "Mushfiqul Alam Nasif",
-  "multiverse_base": "Khulna & Narsingdi, Bangladesh",
-  "academy": "BAUST, Khulna (B.Sc. in CSE, CGPA: 3.27)",
-  "special_powers": [
-    "Clean Algorithmic Thinking",
-    "Physics & Canvas Game Engine Loops",
-    "Full-Stack Web Architecture"
-  ],
-  "syndicate_roles": [
-    "President @ BAUST Khulna Cultural & Debate Club",
-    "Founder @ Innovation & Career Hub",
-    "Founder @ Euphoria Sports"
-  ],
-  "mission_statement": "What makes you different is what makes you Spider-Man."
-}
+```typescript
+const nasif = {
+  hero: "Mushfiqul Alam Nasif",
+  origin: "BAUST Khulna (B.Sc in CSE, 3rd Year, CGPA: 3.27)",
+  passions: ["Interactive Canvas Development", "Agile Software Pipelines", "Public Speaking"],
+  initiatives: {
+    campus: "President @ BAUST Khulna Cultural & Debate Club",
+    ventures: ["Founder @ Innovation & Career Hub", "Founder @ Euphoria Sports"]
+  },
+  previous_missions: "Software Engineering Intern @ fly8"
+};
