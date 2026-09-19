@@ -5,14 +5,42 @@
 
 <br/>
 
+<!-- CYBERPUNK 3D DEV TERMINAL (CSE IDENTITY MATRIX) -->
 <div align="center">
-  <!-- DYNAMIC TYPING ACCENT -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=MUSHFIQUL+ALAM+NASIF;CSE+%40+BAUST+KHULNA+%7C+FULL-STACK+ENGINEER;TOP+10+FINALIST+%40+TECH+TREX+(IUT+AUTOMECH);TOP+25+FINALIST+%40+AI+%26+BLOCKCHAIN+OLYMPIAD;FOUNDER+%40+INNOVATION+%26+CAREER+HUB;BUILDING+TOMORROW+WITH+CODE..." alt="Typing SVG" />
-  </a>
+  <table width="92%" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td bgcolor="#161b22" style="padding: 10px 18px; border-radius: 12px 12px 0 0; border: 1px solid #30363d; border-bottom: none;">
+        <span style="color: #ff5f56; font-size: 14px;">●</span> 
+        <span style="color: #ffbd2e; font-size: 14px;">●</span> 
+        <span style="color: #27c93f; font-size: 14px;">●</span>
+        &nbsp;&nbsp;&nbsp;
+        <code style="color: #8b949e; font-size: 12px;">nasif@cse-terminal:~ (bash)</code>
+      </td>
+    </tr>
+    <tr>
+      <td bgcolor="#0d1117" style="padding: 20px 24px; border-radius: 0 0 12px 12px; border: 1px solid #00F5FF; box-shadow: 0 0 25px rgba(0, 245, 255, 0.25);">
+        <p align="left" style="margin: 0; font-family: monospace; font-size: 14px; line-height: 1.8;">
+          <span style="color: #00F5FF;">nasif@system</span>:<span style="color: #8A2BE2;">~</span>$ <span style="color: #ffffff;">whoami</span><br/>
+          <span style="color: #00FFA3;">➜ Mushfiqul Alam Nasif | CSE Undergrad @ BAUST Khulna</span><br/><br/>
+          
+          <span style="color: #00F5FF;">nasif@system</span>:<span style="color: #8A2BE2;">~</span>$ <span style="color: #ffffff;">cat current_focus.json</span><br/>
+          <span style="color: #8b949e;">{</span><br/>
+          &nbsp;&nbsp;<span style="color: #FF007F;">"engine"</span>: <span style="color: #F5C518;">"HTML5 Canvas 2D Physics & Dynamic Game Loops"</span>,<br/>
+          &nbsp;&nbsp;<span style="color: #FF007F;">"stack"</span>: <span style="color: #F5C518;">"Full-Stack Web Systems (Python, Java, C++, JS, MySQL)"</span>,<br/>
+          &nbsp;&nbsp;<span style="color: #FF007F;">"competitive"</span>: <span style="color: #F5C518;">"Top 10 Tech Trex | Top 25 Finalist AI & Blockchain Olympiad"</span>,<br/>
+          &nbsp;&nbsp;<span style="color: #FF007F;">"mission"</span>: <span style="color: #F5C518;">"Building Tomorrow With Resilient Architecture & Code"</span><br/>
+          <span style="color: #8b949e;">}</span><br/><br/>
 
-  <br/>
+          <span style="color: #00F5FF;">nasif@system</span>:<span style="color: #8A2BE2;">~</span>$ <span style="color: #00FFA3;">./launch_universe.sh --status=online</span> <span style="color: #FF007F;">█</span>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
+<br/>
+
+<div align="center">
   <!-- QUICK ACTION & SOCIAL BADGES -->
   <a href="https://www.linkedin.com/in/mushfiqul-alam-nasif-cse08"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mushfiqulalam14@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -24,7 +52,7 @@
 
 ### ⚡ IDENTITY MATRIX & PROFILE SUMMARY
 
-> **"A results-driven Computer Science & Engineering student at BAUST, Khulna, with hands-on expertise in Python, Java, C/C++, and full-stack web technologies. A proven leader, digital educator, and creative entrepreneur bringing technical depth and human-centered communication."**
+> **"A results-driven Computer Science & Engineering student at BAUST, Khulna, with hands-on expertise in Python, Java, C/C++, and full-stack web technologies. A proven leader, digital educator, and creative entrepreneur bringing technical depth and human-centered communication."**[cite: 4]
 
 <table width="100%">
   <tr>
@@ -32,25 +60,25 @@
       <h3>🏛️ Academic Background</h3>
       <ul>
         <li><b>B.Sc. in CSE (3rd Year, 2nd Semester)</b><br/>
-        Bangladesh Army University of Science & Technology (BAUST), Khulna</li>
+        Bangladesh Army University of Science & Technology (BAUST), Khulna[cite: 4]</li>
         <li><b>Core Coursework:</b><br/>
-        Data Structures & Algorithms, Database Systems (DBMS), Software Engineering, Computer Networks</li>
+        Data Structures & Algorithms, Database Systems (DBMS), Software Engineering, Computer Networks[cite: 4]</li>
         <li><b>Higher Secondary Certificate (HSC) — GPA: 5.00 / 5.00</b><br/>
-        Abdul Kadir Mollah City College (AKMCC), Dhaka Board</li>
+        Abdul Kadir Mollah City College (AKMCC), Dhaka Board[cite: 4]</li>
         <li><b>Secondary School Certificate (SSC) — GPA: 5.00 / 5.00</b><br/>
-        Brahmondi K.K.M. Govt. High School, Narsingdi, Dhaka Board</li>
+        Brahmondi K.K.M. Govt. High School, Narsingdi, Dhaka Board[cite: 4]</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Linguistic & Global Competence</h3>
       <ul>
-        <li><b>Bengali:</b> Native proficiency</li>
+        <li><b>Bengali:</b> Native proficiency[cite: 4]</li>
         <li><b>English (CEFR C1 — Proficient User):</b><br/>
-        Fluent & confident in academic, technical and cross-border professional discourse</li>
+        Fluent & confident in academic, technical and cross-border professional discourse[cite: 4]</li>
         <li><b>Arabic (CEFR B1 — Independent User):</b><br/>
-        Conversational and reading comprehension</li>
-        <li><b>Bangladesh Scouts:</b> Active community member</li>
-        <li><b>Interests:</b> Football, Travelling, Music, Poem Writing, Debate</li>
+        Conversational and reading comprehension[cite: 4]</li>
+        <li><b>Bangladesh Scouts:</b> Active community member[cite: 4]</li>
+        <li><b>Interests:</b> Football, Travelling, Music, Poem Writing, Debate[cite: 4]</li>
       </ul>
     </td>
   </tr>
@@ -70,32 +98,32 @@
     <tr>
       <td><b>Tech Trex Competition</b></td>
       <td>IUT Automech</td>
-      <td>🏅 <b>Top 10</b></td>
+      <td>🏅 <b>Top 10</b>[cite: 4]</td>
     </tr>
     <tr>
       <td><b>AI & Blockchain Olympiad Bangladesh</b></td>
       <td>National Olympiad Committee</td>
-      <td>🏅 <b>Top 25 Finalist</b></td>
+      <td>🏅 <b>Top 25 Finalist</b>[cite: 4]</td>
     </tr>
     <tr>
       <td><b>National English Olympiad</b></td>
       <td>National Level</td>
-      <td>🥇 <b>1st Place</b></td>
+      <td>🥇 <b>1st Place</b>[cite: 4]</td>
     </tr>
     <tr>
       <td><b>KUET Cennovation Competition</b></td>
       <td>Khulna University of Engineering & Technology (KUET)</td>
-      <td>🎯 <b>Prize Winner</b></td>
+      <td>🎯 <b>Prize Winner</b>[cite: 4]</td>
     </tr>
     <tr>
       <td><b>UIHP Programme</b></td>
       <td>Institutional Initiative</td>
-      <td>🎯 <b>Prize Winner</b></td>
+      <td>🎯 <b>Prize Winner</b>[cite: 4]</td>
     </tr>
     <tr>
       <td><b>National Debate Competition</b></td>
       <td>National Debate Circuit</td>
-      <td>🎙️ <b>Participant</b></td>
+      <td>🎙️ <b>Participant</b>[cite: 4]</td>
     </tr>
   </table>
 </div>
@@ -108,32 +136,32 @@
 <summary><b>🔹 Industry Engineering Experience</b></summary>
 <br/>
 
-- **Software Development Intern** | `fly8` *(2025 – 2026)*
-  - Managed project tasks and streamlined end-to-end execution workflows.
-  - Gained industry-level exposure to real-world software pipelines, Git version-control, and agile team collaboration.
+- **Software Development Intern** | `fly8` *(2025 – 2026)*[cite: 4]
+  - Managed project tasks and streamlined end-to-end execution workflows[cite: 4].
+  - Gained industry-level exposure to real-world software pipelines, Git version-control, and agile team collaboration[cite: 4].
 </details>
 
 <details open>
 <summary><b>🔹 Campus Leadership & Entrepreneurship</b></summary>
 <br/>
 
-- **President** | `BAUST Khulna Cultural & Debate Club`
-  - Leading forensic debate tournaments, campus-wide outreach campaigns, and public speaking workshops.
-- **Founder & Owner** | `Euphoria Sports`
-  - Managing operations, branding, and sporting logistics.
-- **Founder** | `Innovation & Career Hub`
-  - Mentoring student skill acceleration, career sessions, and tech readiness drives.
-- **Campus Ambassador** | `10 Minute School` | `ACS` | `Sputnik Astronomical Society` | `NOHA` *(2020 – 2022)*
-  - Orchestrated educational outreach drives and handled large-scale event logistics.
+- **President** | `BAUST Khulna Cultural & Debate Club`[cite: 4]
+  - Leading forensic debate tournaments, campus-wide outreach campaigns, and public speaking workshops[cite: 4].
+- **Founder & Owner** | `Euphoria Sports`[cite: 4]
+  - Managing operations, branding, and sporting logistics[cite: 4].
+- **Founder** | `Innovation & Career Hub`[cite: 4]
+  - Mentoring student skill acceleration, career sessions, and tech readiness drives[cite: 4].
+- **Campus Ambassador** | `10 Minute School` | `ACS` | `Sputnik Astronomical Society` | `NOHA` *(2020 – 2022)*[cite: 4]
+  - Orchestrated educational outreach drives and handled large-scale event logistics[cite: 4].
 </details>
 
 <details open>
 <summary><b>🔹 Academic Mentorship & Teaching</b></summary>
 <br/>
 
-- **Offline Teacher (Classes 6–12)** | `Private Tutoring, Khulna & Narsingdi` *(2021 – 2026)*
-  - Mentored students across multiple disciplines focusing on fundamental clarity and exam preparation.
-  - Formulated personalized lesson plans and structured continuous evaluation frameworks.
+- **Offline Teacher (Classes 6–12)** | `Private Tutoring, Khulna & Narsingdi` *(2021 – 2026)*[cite: 4]
+  - Mentored students across multiple disciplines focusing on fundamental clarity and exam preparation[cite: 4].
+  - Formulated personalized lesson plans and structured continuous evaluation frameworks[cite: 4].
 </details>
 
 ---
@@ -174,7 +202,7 @@
   <br/><br/>
   <p><b>Design, Analytics & Productivity</b></p>
   <img src="https://skillicons.dev/icons?i=figma,photoshop&perline=7" /><br/>
-  <code>Power BI</code> • <code>Google Workspace (G-Suite)</code> • <code>Microsoft Office Suite</code>
+  <code>Power BI</code> • <code>Google Workspace (G-Suite)</code> • <code>Microsoft Office Suite</code>[cite: 4]
 </div>
 
 ---
@@ -212,7 +240,7 @@
         <p align="center"><img src="https://img.shields.io/badge/Algorithms-C%2B%2B_%26_Python-FF007F?style=flat-square&logo=cplusplus&logoColor=white" /></p>
         <ul>
           <li><b>DSA Fundamentals:</b> Applied knowledge in sorting, tree structures, graph traversals, and asymptotic complexity analysis.</li>
-          <li><b>Competitive Edge:</b> Top 10 at Tech Trex (IUT Automech) and Top 25 Finalist at AI & Blockchain Olympiad Bangladesh.</li>
+          <li><b>Competitive Edge:</b> Top 10 at Tech Trex (IUT Automech) and Top 25 Finalist at AI & Blockchain Olympiad Bangladesh.[cite: 4]</li>
           <li><b>Concept Breakdown:</b> Strong capacity to deconstruct complex CS concepts into clear logic and structured solutions.</li>
         </ul>
       </td>
@@ -231,7 +259,7 @@
       <ul>
         <li>Optimizing browser game loops for 60+ FPS performance on mobile browsers.</li>
         <li>Exploring scalable backend micro-flows and API security practices.</li>
-        <li>Building student-focused technical resources at <b>Innovation & Career Hub</b>.</li>
+        <li>Building student-focused technical resources at <b>Innovation & Career Hub</b>.[cite: 4]</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -242,3 +270,10 @@
     </td>
   </tr>
 </table>
+
+<br/>
+
+<!-- FOOTER 3D WAVE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,17,12,0&height=100&section=footer" width="100%" />
+</div>
