@@ -163,47 +163,6 @@
 
 ---
 
-### 🎬 MULTIVERSE CINEMA: THE SPIDER-MAN ARCHIVES
-
-<div align="center">
-  <table>
-    <tr>
-      <th width="25%" align="center">🕷️ Spider-Man (2002)</th>
-      <th width="25%" align="center">🚆 Spider-Man 2 (2004)</th>
-      <th width="25%" align="center">🖤 Spider-Man 3 (2007)</th>
-      <th width="25%" align="center">🌌 Into the Spider-Verse</th>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://www.imdb.com/title/tt0145487/">
-          <img src="https://img.shields.io/badge/IMDb-7.4-F5C518?style=flat-square&logo=imdb&logoColor=black"/><br/><br/>
-          <b>"With great power comes great responsibility."</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.imdb.com/title/tt0316654/">
-          <img src="https://img.shields.io/badge/IMDb-7.5-F5C518?style=flat-square&logo=imdb&logoColor=black"/><br/><br/>
-          <b>"Choice is a gift you have to take."</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.imdb.com/title/tt0413300/">
-          <img src="https://img.shields.io/badge/IMDb-6.3-F5C518?style=flat-square&logo=imdb&logoColor=black"/><br/><br/>
-          <b>"Whatever comes our way, the choice is ours."</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.imdb.com/title/tt4633694/">
-          <img src="https://img.shields.io/badge/IMDb-8.4-F5C518?style=flat-square&logo=imdb&logoColor=black"/><br/><br/>
-          <b>"That's all it is, Miles. A leap of faith."</b>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### 🛠️ TECH STACK & DIGITAL COMPETENCE
 
 <div align="center">
@@ -223,21 +182,22 @@
 ### 📊 3D TELEMETRY & DYNAMIC STATS
 
 <div align="center">
-  <!-- 3D Profile Trophy Case -->
-  <img src="https://github-profile-trophy.vercel.app/?username=nasif120696-collab&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="90%" alt="3D Trophies" />
+  <!-- DYNAMIC 3D COMMITS ACTIVITY GRAPH -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasif120696-collab&theme=tokyo-night&bg_color=0D1117&color=00F5FF&line=8A2BE2&point=00F5FF&area=true&hide_border=true" width="95%" alt="Commit Activity Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nasif120696-collab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00F5FF&text_color=ffffff&icon_color=8A2BE2" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasif120696-collab&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5FF&text_color=ffffff" width="45%" />
+  <!-- REPLACEMENT FOR BROKEN STATS -->
+  <img src="https://deno-github-stats.fly.dev/api?username=nasif120696-collab&theme=radical&show_icons=true" width="48%" alt="GitHub Stats" />
+  <img src="https://deno-github-stats.fly.dev/api/top-langs/?username=nasif120696-collab&theme=radical&layout=compact" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasif120696-collab&theme=tokyonight&background=0D1117&border=00F5FF&stroke=00F5FF&ring=8A2BE2&fire=8A2BE2&currStreakLabel=00F5FF" width="70%" />
+  <img src="https://stardev.io/developers/nasif120696-collab/badge/languages/github.svg" alt="Languages Graph" />
 </div>
 
 <br/>
