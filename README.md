@@ -179,46 +179,66 @@
 
 ---
 
-### 📊 3D TELEMETRY & CYBERPUNK CONSOLE
+### ⚡ ENGINEERING CORE & ARCHITECTURE FOCUS
 
 <div align="center">
-  <table width="100%">
+  <table width="100%" style="border-collapse: separate; border-spacing: 12px;">
     <tr>
-      <td width="50%" align="center" bgcolor="#0d1117" style="border: 1px solid #00F5FF; border-radius: 10px; padding: 15px;">
-        <h4 style="color: #00F5FF; margin: 0;">🚀 GITHUB LIVE RADAR</h4>
-        <br/>
-        <img src="https://img.shields.io/badge/DEVELOPER-FULL--STACK-00F5FF?style=for-the-badge&logo=codeforces&logoColor=black" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/MAIN_ENGINE-JAVASCRIPT_%26_PYTHON-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/SPECIALIZATION-PHYSICS_CANVAS_GAMES-ff007f?style=for-the-badge&logo=html5&logoColor=white" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/CAMPUS-BAUST_KHULNA-success?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+      <!-- Column 1: Client-Side & Game Engines -->
+      <td width="33%" valign="top" bgcolor="#0d1117" style="border: 1px solid #00F5FF; border-radius: 12px; padding: 18px;">
+        <h3 align="center" style="color: #00F5FF; margin-top: 0;">🕹️ Graphics & Simulation Loops</h3>
+        <p align="center"><img src="https://img.shields.io/badge/HTML5_Canvas-Interactive-00F5FF?style=flat-square&logo=html5&logoColor=white" /></p>
+        <ul>
+          <li><b>Physics & Collision Dynamics:</b> Real-time frame loop rendering, bounding-box collision detection, and dynamic paddle steer angles.</li>
+          <li><b>Interactive Browser Games:</b> Building low-latency arcade engines with Vanilla JS and Web Audio API integration.</li>
+          <li><b>Cross-Platform Input:</b> Handling simultaneous multi-touch drag, key bindings, and mouse events for responsive play.</li>
+        </ul>
       </td>
-      <td width="50%" align="center" bgcolor="#0d1117" style="border: 1px solid #8A2BE2; border-radius: 10px; padding: 15px;">
-        <h4 style="color: #8A2BE2; margin: 0;">⚡ ENGINEERING REPO RECON</h4>
-        <br/>
-        <a href="https://github.com/nasif120696-collab?tab=repositories">
-          <img src="https://img.shields.io/github/stars/nasif120696-collab?style=for-the-badge&color=F5C518&label=EARNED%20STARS" />
-        </a>
-        <br/><br/>
-        <a href="https://github.com/nasif120696-collab?tab=repositories">
-          <img src="https://img.shields.io/github/followers/nasif120696-collab?style=for-the-badge&color=00F5FF&label=NETWORK%20FOLLOWERS" />
-        </a>
-        <br/><br/>
-        <a href="https://github.com/nasif120696-collab?tab=repositories">
-          <img src="https://img.shields.io/github/repo-size/nasif120696-collab/table-tennis-game-?style=for-the-badge&color=8A2BE2&label=PING%20PONG%20SIZE" />
-        </a>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/STATUS-READY_FOR_VENTURES-00FFA3?style=for-the-badge&logo=githubactions&logoColor=black" />
+
+      <!-- Column 2: Full-Stack & System Design -->
+      <td width="33%" valign="top" bgcolor="#0d1117" style="border: 1px solid #8A2BE2; border-radius: 12px; padding: 18px;">
+        <h3 align="center" style="color: #8A2BE2; margin-top: 0;">🌐 Full-Stack Web Systems</h3>
+        <p align="center"><img src="https://img.shields.io/badge/Backend_Flow-Node.js_%26_MySQL-8A2BE2?style=flat-square&logo=nodedotjs&logoColor=white" /></p>
+        <ul>
+          <li><b>Component & API Architecture:</b> Building modular UI flows, state management, and connecting clean REST endpoints.</li>
+          <li><b>Relational Storage:</b> Schema modeling and querying with MySQL, focusing on indexing and relational constraints.</li>
+          <li><b>Agile Delivery:</b> Version control discipline with Git/GitHub, pull request reviews, and production deploys via Vercel.</li>
+        </ul>
+      </td>
+
+      <!-- Column 3: Competitive & Problem Solving -->
+      <td width="33%" valign="top" bgcolor="#0d1117" style="border: 1px solid #FF007F; border-radius: 12px; padding: 18px;">
+        <h3 align="center" style="color: #FF007F; margin-top: 0;">🧠 Algorithmic Thinking</h3>
+        <p align="center"><img src="https://img.shields.io/badge/Algorithms-C%2B%2B_%26_Python-FF007F?style=flat-square&logo=cplusplus&logoColor=white" /></p>
+        <ul>
+          <li><b>DSA Fundamentals:</b> Applied knowledge in sorting, tree structures, graph traversals, and asymptotic complexity analysis.</li>
+          <li><b>Competitive Edge:</b> Top 10 at Tech Trex (IUT Automech) and Top 25 Finalist at AI & Blockchain Olympiad Bangladesh.</li>
+          <li><b>Concept Breakdown:</b> Strong capacity to deconstruct complex CS concepts into clear logic and structured solutions.</li>
+        </ul>
       </td>
     </tr>
   </table>
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <!-- DYNAMIC CYBERPUNK QUOTE CAPSULE -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="95%" alt="Dev Quote" />
-</div>
+### 🚀 CURRENT DEVELOPMENT RADAR
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔭 Active Explorations</h4>
+      <ul>
+        <li>Optimizing browser game loops for 60+ FPS performance on mobile browsers.</li>
+        <li>Exploring scalable backend micro-flows and API security practices.</li>
+        <li>Building student-focused technical resources at <b>Innovation & Career Hub</b>.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💬 Engineering Philosophy</h4>
+      <blockquote>
+        <i>"Code is not just about writing logic; it's about engineering intuitive, resilient systems that bridge technical depth with human impact."</i>
+      </blockquote>
+    </td>
+  </tr>
+</table>
