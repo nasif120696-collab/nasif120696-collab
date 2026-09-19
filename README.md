@@ -3,9 +3,16 @@
   <img src="github.png" width="100%" alt="Cyberpunk Player Header" />
 </p>
 
-<!-- PERFECT ALIGNED NEON STATUS BAR -->
+<!-- 3D DYNAMIC SHIFTING NAME BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=21,17,12&height=65&text=PLAYER%20STATUS:%20ONLINE%20%E2%9A%A1%20[EARTH-616]&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%" alt="Player Status Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,17,12,0&height=150&section=header&text=MUSHFIQUL%20ALAM%20NASIF&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=42" width="100%" alt="3D Name Banner" />
+</p>
+
+<!-- 3D DYNAMIC FLOATING TYPING MATRIX -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=%E2%9A%A1+CSE+Undergrad+%40+BAUST+Khulna;%F0%9F%94%B9+Full-Stack+Engineer+%7C+Interactive+Canvas+Dev;%F0%9F%8F%86+Top+10+Finalist+%40+Tech+Trex+(IUT+Automech);%F0%9F%8F%85+Top+25+Finalist+%40+AI+%26+Blockchain+Olympiad;%F0%9F%8E%AE+Creator+of+2D+Arcade+Table+Tennis;%E2%9C%A8+Founder+%40+Innovation+%26+Career+Hub" alt="3D Floating Details" />
+  </a>
 </p>
 
 <!-- CONTROLLER QUICK-LAUNCH HUD -->
@@ -139,5 +146,5 @@
 
 <!-- 3D DYNAMIC RECT FOOTER BAR -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=21,17,12&height=40" width="100%" alt="Footer Bar" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,17,12,0&height=100&section=footer" width="100%" alt="Footer Wave" />
 </p>
