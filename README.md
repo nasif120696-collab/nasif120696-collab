@@ -179,30 +179,46 @@
 
 ---
 
-### 📊 3D TELEMETRY & DYNAMIC STATS
+### 📊 3D TELEMETRY & CYBERPUNK CONSOLE
 
 <div align="center">
-  <!-- DYNAMIC 3D COMMITS ACTIVITY GRAPH -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasif120696-collab&theme=tokyo-night&bg_color=0D1117&color=00F5FF&line=8A2BE2&point=00F5FF&area=true&hide_border=true" width="95%" alt="Commit Activity Graph" />
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center" bgcolor="#0d1117" style="border: 1px solid #00F5FF; border-radius: 10px; padding: 15px;">
+        <h4 style="color: #00F5FF; margin: 0;">🚀 GITHUB LIVE RADAR</h4>
+        <br/>
+        <img src="https://img.shields.io/badge/DEVELOPER-FULL--STACK-00F5FF?style=for-the-badge&logo=codeforces&logoColor=black" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/MAIN_ENGINE-JAVASCRIPT_%26_PYTHON-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/SPECIALIZATION-PHYSICS_CANVAS_GAMES-ff007f?style=for-the-badge&logo=html5&logoColor=white" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/CAMPUS-BAUST_KHULNA-success?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+      </td>
+      <td width="50%" align="center" bgcolor="#0d1117" style="border: 1px solid #8A2BE2; border-radius: 10px; padding: 15px;">
+        <h4 style="color: #8A2BE2; margin: 0;">⚡ ENGINEERING REPO RECON</h4>
+        <br/>
+        <a href="https://github.com/nasif120696-collab?tab=repositories">
+          <img src="https://img.shields.io/github/stars/nasif120696-collab?style=for-the-badge&color=F5C518&label=EARNED%20STARS" />
+        </a>
+        <br/><br/>
+        <a href="https://github.com/nasif120696-collab?tab=repositories">
+          <img src="https://img.shields.io/github/followers/nasif120696-collab?style=for-the-badge&color=00F5FF&label=NETWORK%20FOLLOWERS" />
+        </a>
+        <br/><br/>
+        <a href="https://github.com/nasif120696-collab?tab=repositories">
+          <img src="https://img.shields.io/github/repo-size/nasif120696-collab/table-tennis-game-?style=for-the-badge&color=8A2BE2&label=PING%20PONG%20SIZE" />
+        </a>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/STATUS-READY_FOR_VENTURES-00FFA3?style=for-the-badge&logo=githubactions&logoColor=black" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- REPLACEMENT FOR BROKEN STATS -->
-  <img src="https://deno-github-stats.fly.dev/api?username=nasif120696-collab&theme=radical&show_icons=true" width="48%" alt="GitHub Stats" />
-  <img src="https://deno-github-stats.fly.dev/api/top-langs/?username=nasif120696-collab&theme=radical&layout=compact" width="48%" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://stardev.io/developers/nasif120696-collab/badge/languages/github.svg" alt="Languages Graph" />
-</div>
-
-<br/>
-
-<!-- FOOTER 3D WAVE -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,17,12,0&height=100&section=footer" width="100%" />
+  <!-- DYNAMIC CYBERPUNK QUOTE CAPSULE -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="95%" alt="Dev Quote" />
 </div>
