@@ -3,9 +3,9 @@
   <img src="github.png" width="100%" alt="Cyberpunk Player Header" />
 </p>
 
-<!-- 3D WAVING GLOW -->
+<!-- PERFECT ALIGNED NEON STATUS BAR -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,17,12,0&height=120&section=header&text=PLAYER%20STATUS:%20ONLINE%20[EARTH-616]&fontSize=26&fontColor=ffffff&fontAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=21,17,12&height=65&text=PLAYER%20STATUS:%20ONLINE%20%E2%9A%A1%20[EARTH-616]&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%" alt="Player Status Banner" />
 </p>
 
 <!-- CONTROLLER QUICK-LAUNCH HUD -->
@@ -24,7 +24,7 @@
 | :--- | :--- |
 | **Hero Tag** | **Mushfiqul Alam Nasif** |
 | **Character Class** | **Full-Stack Engineer & Interactive Graphics Builder** |
-| **Academy Guild** | **BAUST, Khulna** — B.Sc. in Computer Science & Engineering (3rd Year, 2nd Sem) |
+| **Academy Guild** | **BAUST, Khulna** — B.Sc. in Computer Science & Engineering (3rd Year, 2nd Sem)[cite: 4] |
 | **Guild Roles** | **President** @ BAUST Cultural & Debate Club • **Founder** @ Innovation & Career Hub[cite: 4] |
 | **Special Trait** | Physics Collision Loops • Human-Centered Architecture • Multi-Disciplinary Educator[cite: 4] |
 | **Server Status** | 🟢 Ready for High-Scale Production Sprints |
@@ -137,7 +137,7 @@
 
 ---
 
-<!-- 3D DYNAMIC SHIFTING FOOTER WAVE -->
+<!-- 3D DYNAMIC RECT FOOTER BAR -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,17,12,0&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=21,17,12&height=40" width="100%" alt="Footer Bar" />
 </p>
